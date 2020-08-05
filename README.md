@@ -2,7 +2,7 @@
 
 ## Segunda edição do NLW (Next Level Week)
 
-- Frotend e backend da aplicação
+- Finalização do frontend
 
 ### Como testar o Backend e frontend
 
